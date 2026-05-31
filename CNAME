@@ -1,1 +1,3 @@
-datalib.runtoolkit.net
+Type:  CNAME
+Name:  datalib
+Value: runtoolkit.github.io
